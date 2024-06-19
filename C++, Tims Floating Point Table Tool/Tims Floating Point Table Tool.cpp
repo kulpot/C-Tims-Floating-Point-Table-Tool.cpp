@@ -1,1 +1,1 @@
-//C++, Tims Floating Point Table Tool   
+//C++, Tims Floating Point Table Tool   //ref link:https://www.youtube.com/watch?v=tz3rr8UB6sU&list=PLRwVmtr-pp04ljVWgUFlQoBl9tqTzFh2N&index=7
